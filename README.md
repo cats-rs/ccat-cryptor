@@ -39,7 +39,7 @@ git clone https://github.com/cats-rs/ccat-cryptor.git
 cargo build --release
 ```
 
-The executable will be available in `./target/release/file-encryptor`.
+The executable will be available in `./target/release/ccat-cryptor`.
 
 ## Usage
 
