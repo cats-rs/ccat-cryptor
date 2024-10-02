@@ -1,8 +1,8 @@
 <div align="center">
 
-![AI Generated ccat-cryptor logo](./assets/ai-logo-1.png)
-
 # CCAT-CRYPTOR
+
+![AI Generated ccat-cryptor logo](./assets/ai-logo-1.png)
 
 A secure file encryption and decryption tool using AES-256-GCM.
 
