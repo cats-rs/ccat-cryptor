@@ -2,7 +2,7 @@
 
 ![AI Generated ccat-cryptor logo](./assets/ai-logo-1.png)
 
-# File Encryptor
+# CCAT-CRYPTOR
 
 A secure file encryption and decryption tool using AES-256-GCM.
 
